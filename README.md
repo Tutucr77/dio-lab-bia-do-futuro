@@ -139,3 +139,7 @@ Acesse em: `http://localhost:8501`
 > 🤖 *"Não posso te dizer se você deve, mas posso explicar como funciona! Ações são pedaços de empresas — você vira sócio. O risco é alto porque o preço varia muito. Quer saber mais sobre risco?"*
 
 ---
+
+## Vídeo pitch apresentação
+
+[Vídeo pitch](https://www.youtube.com/watch?v=WYRNY3cMfn0)
